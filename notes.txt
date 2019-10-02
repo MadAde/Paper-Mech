@@ -1,0 +1,31 @@
+Paper Mech Notes:
+
+Next up: 
+
+Add enemy dither to location
+Add enemy attacks
+
+Think need to group weapons and areas - ie. arms, legs torso with associated weapons
+
+To Do:
+Check if all enemies destroyed,
+Perform repairs,
+Generate Enemies depending on Wave
+
+Add additional
+
+
+
+Done 
+
+Add ranges to Player Weapons
+Select Enemy by mouse
+Finish all weapon slots and movement choices
+Need to add original time_value as well as current time value
+Select Enemy - Done
+Destroy enemy
+Add player active square
+Add player attack
+Added extra code to Enemy_2
+Bike weapon = none - sorted - error in logic
+need to add new distances to walk backwards
